@@ -4,7 +4,7 @@ Thank you for your interest in contributing to the Node.js and TypeScript Starte
 
 ## Bug Reports and Feature Requests
 
-If you encounter a bug or have a feature request, please open an issue on the [issue tracker](https://github.com/your/repository/issues) with the following information:
+If you encounter a bug or have a feature request, please open an issue on the [issue tracker](https://github.com/skarthikeyan96/node-ts-starter/repository/issues) with the following information:
 
 - A clear and descriptive title
 - A detailed description of the bug or feature request
@@ -33,7 +33,7 @@ Please adhere to the following coding style guidelines:
 
 ## License
 
-By contributing to this project, you agree that your contributions will be licensed under the [MIT License](LICENSE).
+By contributing to this project, you agree that your contributions will be licensed under the [MIT License](LICENSE.md).
 
 If you have any questions or need further assistance, feel free to reach out by opening an issue or contacting the project maintainers.
 
